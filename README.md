@@ -5,4 +5,4 @@ Both app and app1 are same program but instead of using a jason file like app, i
 
 This program uses tkinter and json as import and basic python 'dictionary' concept for storing words and meanings.
 
-You get it, it uses dictionary for dictionary app.
+You get it, it uses dictionary for dictionary app :)
